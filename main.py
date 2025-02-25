@@ -13,7 +13,7 @@ lon = "37.677751"
 lat = "55.757718"
 delta1 = "1.0"
 delta2 = "1.0"
-apikey = "fbd97554-0102-440a-96de-81c7a8dbf641"
+apikey = ""
 
 
 class MyWidget(QMainWindow, Ui_MainWindow):
